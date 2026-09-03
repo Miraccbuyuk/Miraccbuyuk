@@ -6,9 +6,7 @@
 #### 🚀 My Projects
 
 * 📱 **Couple Story** — Relationship tracking application [![Instagram](https://img.shields.io/badge/couplestorytr-833AB4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/couplestorytr)
-
 * 📈 **Varlığım** — Personal asset tracking application [![Instagram](https://img.shields.io/badge/varligimtr-C13584?style=flat&logo=instagram&logoColor=white)](https://instagram.com/varligimtr)
-
 * 📚 **Kocify KPSS** — KPSS exam preparation application [![Instagram](https://img.shields.io/badge/kocifykpsstr-F56040?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kocifykpsstr)
 
 ---
@@ -19,6 +17,7 @@
 
 ---
 
-#### 📊 GitHub Stats
+#### 🎯 Focus & Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miraccbuyuk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E1306C&icon_color=E1306C&text_color=ffffff)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20New%20Projects-success?style=flat&logo=appveyor)](https://github.com/miraccbuyuk)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%2F%20iOS%20%2F%20Desktop-blue?style=flat&logo=gnome&logoColor=white)](https://github.com/miraccbuyuk)
