@@ -1,36 +1,34 @@
-<h1 align="center">Hi there 👋, I'm Miraç</h1>
-<h3 align="center">Public Sector Engineer & Cross-Platform Developer based in Ankara 🇹🇷</h3>
+### Hi there 👋, I'm Miraç
+**Public Sector Engineer & Cross-Platform Developer based in Ankara 🇹🇷**
 
-<p align="center">
-  <a href="https://instagram.com/miraccbuyuk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/miraccbuyuk)
 
 ---
 
-### 🚀 My Projects
+#### 🚀 My Projects
 
-| Uygulama | Açıklama | Instagram |
-| :--- | :--- | :---: |
-| **Couple Story** | İlişki takip uygulaması | [![Instagram](https://img.shields.io/badge/couplestorytr-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/couplestorytr) |
-| **Varlığım** | Kişisel varlık takip uygulaması | [![Instagram](https://img.shields.io/badge/varligimtr-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/varligimtr) |
-| **Kocify KPSS** | KPSS sınav hazırlık uygulaması | [![Instagram](https://img.shields.io/badge/kocifykpsstr-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kocifykpsstr) |
+* 📱 **Couple Story** — İlişki takip uygulaması
+  [![Instagram](https://img.shields.io/badge/couplestorytr-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/couplestorytr)
+
+* 📈 **Varlığım** — Kişisel varlık takip uygulaması
+  [![Instagram](https://img.shields.io/badge/varligimtr-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/varligimtr)
+
+* 📚 **Kocify KPSS** — KPSS sınav hazırlık uygulaması
+  [![Instagram](https://img.shields.io/badge/kocifykpsstr-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kocifykpsstr)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+#### 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+#### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miraccbuyuk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miraccbuyuk&show_icons=true&hide_border=true&bg_color=transparent&title_color=E4405F&icon_color=E4405F&text_color=777777" alt="GitHub Stats" />
 </p>
