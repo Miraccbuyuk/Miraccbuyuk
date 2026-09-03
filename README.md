@@ -1,20 +1,20 @@
 ### Hi there 👋, I'm Miraç
 **Public Sector Engineer & Cross-Platform Developer based in Ankara 🇹🇷**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/miraccbuyuk)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miraccbuyuk)
 
 ---
 
 #### 🚀 My Projects
 
-* 📱 **Couple Story** — İlişki takip uygulaması
-  [![Instagram](https://img.shields.io/badge/couplestorytr-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/couplestorytr)
+* 📱 **Couple Story** — Relationship tracking application
+  [![Instagram](https://img.shields.io/badge/couplestorytr-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/couplestorytr)
 
-* 📈 **Varlığım** — Kişisel varlık takip uygulaması
-  [![Instagram](https://img.shields.io/badge/varligimtr-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/varligimtr)
+* 📈 **Varlığım** — Personal asset tracking application
+  [![Instagram](https://img.shields.io/badge/varligimtr-C13584?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/varligimtr)
 
-* 📚 **Kocify KPSS** — KPSS sınav hazırlık uygulaması
-  [![Instagram](https://img.shields.io/badge/kocifykpsstr-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kocifykpsstr)
+* 📚 **Kocify KPSS** — KPSS exam preparation application
+  [![Instagram](https://img.shields.io/badge/kocifykpsstr-F56040?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kocifykpsstr)
 
 ---
 
@@ -30,5 +30,5 @@
 #### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=miraccbuyuk&show_icons=true&hide_border=true&bg_color=transparent&title_color=E4405F&icon_color=E4405F&text_color=777777" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miraccbuyuk&show_icons=true&theme=transparent&hide_border=true&title_color=E1306C&icon_color=E1306C&text_color=777777" alt="GitHub Stats" />
 </p>
