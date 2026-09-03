@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Miraç
 
-<!--
-**Miraccbuyuk/Miraccbuyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a public sector engineer and cross-platform developer based in Ankara. I specialize in building mobile and desktop applications.
 
-Here are some ideas to get you started:
+### 🚀 My Projects
+Here are some of the applications I've developed. You can check them out on Instagram:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📱 [**Couple Story**](https://instagram.com/couplestorytr) - Relationship tracking application
+* 📈 [**Varlığım**](https://instagram.com/varligimtr) - Personal asset tracking application
+* 📚 [**Kocify KPSS**](https://instagram.com/kocifykpsstr) - KPSS exam preparation application
+
+### 🛠️ Tech Stack & Tools
+* **Development:** Flutter, Dart, HTML, CSS
+* **Design:** Figma
+
+### 📫 Let's Connect
+* **Instagram:** [@miraccbuyuk](https://instagram.com/miraccbuyuk)
