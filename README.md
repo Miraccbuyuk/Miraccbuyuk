@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Miraç
 **Public Sector Engineer & Cross-Platform Developer based in Ankara 🇹🇷** [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/miraccbuyuk)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Miraccbuyuk&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 #### 🚀 My Projects
